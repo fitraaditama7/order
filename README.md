@@ -4,11 +4,7 @@
 - [Installation and Run Application](#installation)
 
 ## Prerequisites
-- Download and install [Go 1.21 or higher](https://go.dev/doc/install) (if you want to running it without docker)
-- Install [Golang Migrate](https://github.com/golang-migrate/migrate) (if you want to running it without docker)
-- Install Postgresql [Postgres](https://www.postgresql.org/download/)  (if you want to running it without docker)
 - Download and Install [Docker](https://www.docker.com/products/docker-desktop/)
-- Download and Install [Nodejs](https://nodejs.org/en/download/current) (if you want to running it without docker)
 
 ## Installation
 
