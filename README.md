@@ -25,6 +25,6 @@
     ```bash
    docker compose up -d --build
    
-5. Open browser and go to `localhost:8000`
+5. Open browser and open to `localhost:8000`
 
    
