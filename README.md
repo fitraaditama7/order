@@ -13,14 +13,18 @@
    ```bash
    git clone https://github.com/fitraaditama7/order.git
 
-2. Copy and fill value on .env
+2. Move inside `order` the folder
+   ```bash
+   cd order
+
+3. Copy and fill the empty .env values. 
     ```bash
    cp .env.example .env
    
-3. Running Application
+4. Running Application
     ```bash
    docker compose up -d --build
    
-3. Open browser and go to `localhost:8000`
+5. Open browser and go to `localhost:8000`
 
    
