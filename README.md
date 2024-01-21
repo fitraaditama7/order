@@ -26,5 +26,5 @@
    docker compose up -d --build
    
 5. Open browser and open to `localhost:8000`
+![ezgif-1-0ad75c6862](https://github.com/fitraaditama7/order/assets/44829651/4ae95c2c-225a-4c3f-a86c-7b3c68dece4e)
 
-   
